@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /privacy-policy
+
+Sitemap: https://cryptocurrency-101.github.io/sitemap.xml
